@@ -43,9 +43,5 @@ To model and predict the ocean currents, Gaussian Processes (GPs) are employed. 
 ## Results
 The project demonstrates the application of GPs in predicting ocean currents with high accuracy. Detailed results and visualizations are provided in the project notebook.
 
-## Contributing
-Contributions are welcome! Please read the [contributing guidelines](CONTRIBUTING.md) before submitting a pull request.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
